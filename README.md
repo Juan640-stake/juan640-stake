@@ -17,17 +17,27 @@
 
 ## 👋 Sobre mim
 
-Sou **Juan Medeiros**, estudante de Ciência da Computação, e trabalho com **automação, inteligência artificial e integração entre sistemas**.
-
-No dia a dia, construo **agentes de voz com IA, chatbots e fluxos automáticos** que tiram tarefas repetitivas do caminho das pessoas, conectando ferramentas e sistemas para o trabalho fluir sozinho.
-
-> *Automatize o repetitivo. Construa o inteligente.*
+Olá! Eu sou o **Juan Medeiros**, estudante de Ciência da Computação. Gosto de olhar para uma tarefa repetitiva e pensar: *"isso poderia se resolver sozinho."* Depois disso, eu construo a solução.
 
 <div align="center">
 
-| 🎯 Foco | 🎓 Formação | 📍 Local |
+| 🤖 Automação | 🧠 Inteligência Artificial | 🔗 Integrações |
 |:---:|:---:|:---:|
-| Automação • IA • Integrações • Web | Ciência da Computação | Brasil 🇧🇷 |
+| Fluxos que fazem o trabalho repetitivo no lugar das pessoas | Agentes de voz e chatbots que conversam de forma natural | Sistemas diferentes trabalhando juntos, sem copiar e colar |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-em%20andamento-0284c7?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Brasil-%F0%9F%87%A7%F0%9F%87%B7-0284c7?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%A1%20Aprendendo-construindo-0284c7?style=for-the-badge&labelColor=0f172a"/>
+
+<br><br>
+
+> ⚡ ***Automatize o repetitivo. Construa o inteligente.***
 
 </div>
 
@@ -53,9 +63,13 @@ No dia a dia, construo **agentes de voz com IA, chatbots e fluxos automáticos**
 | 🌐 **Portfolio** | Site de apresentação profissional |
 
 <div align="center">
-<a href="https://github.com/Juan640-stake/portfolio-juan-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan640-stake&repo=portfolio-juan-&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Juan640-stake/slack-bot-aniversario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan640-stake&repo=slack-bot-aniversario&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Juan640-stake/slack-bot-ferias"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan640-stake&repo=slack-bot-ferias&theme=tokyonight&hide_border=true"/></a>
+
+**Código aberto para conferir:**
+
+<a href="https://github.com/Juan640-stake/portfolio-juan-"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
+<a href="https://github.com/Juan640-stake/slack-bot-aniversario"><img src="https://img.shields.io/badge/%F0%9F%8E%82%20Birthday%20Bot-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
+<a href="https://github.com/Juan640-stake/slack-bot-ferias"><img src="https://img.shields.io/badge/%F0%9F%8F%96%EF%B8%8F%20Vacation%20Bot-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
+
 </div>
 
 ---
@@ -113,16 +127,10 @@ flowchart LR
 ## 📊 GitHub em números
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan640-stake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan640-stake&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-<br>
 <img src="https://streak-stats.demolab.com?user=Juan640-stake&theme=tokyonight&hide_border=true"/>
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juan640-stake&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Juan640-stake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-<br><br>
-<img src="https://raw.githubusercontent.com/Juan640-stake/Juan640-stake/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://github.com/Juan640-stake?tab=followers"><img src="https://img.shields.io/github/followers/Juan640-stake?style=for-the-badge&logo=github&color=0284c7&labelColor=0f172a"/></a>
+<a href="https://github.com/Juan640-stake?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-ver%20todos-0284c7?style=for-the-badge&logo=github&labelColor=0f172a"/></a>
 </div>
 
 ---
