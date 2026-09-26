@@ -60,13 +60,14 @@ Olá! Eu sou o **Juan Medeiros**, estudante de Ciência da Computação. Gosto d
 | 📦 **Controle de estoque** | Painel web para controlar equipamentos, usando planilha como base de dados |
 | 🎂 **Slack Birthday Bot** | Envia mensagens automáticas de aniversário no Slack |
 | 🏖️ **Slack Vacation Bot** | Avisa o time sobre férias, lendo os dados de uma planilha |
-| 🌐 **Portfolio** | Site de apresentação profissional |
+| 🌐 **Meu site de serviços** | Página de apresentação dos meus serviços de automação de WhatsApp e landing pages para negócios, com simulador do tempo perdido em tarefas repetitivas |
 
 <div align="center">
 
 **Código aberto para conferir:**
 
-<a href="https://github.com/Juan640-stake/portfolio-juan-"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
+<a href="https://portfolio-juan-three.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Meu%20site-acessar-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
+<a href="https://github.com/Juan640-stake/portfolio-juan-"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20C%C3%B3digo%20do%20site-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
 <a href="https://github.com/Juan640-stake/slack-bot-aniversario"><img src="https://img.shields.io/badge/%F0%9F%8E%82%20Birthday%20Bot-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
 <a href="https://github.com/Juan640-stake/slack-bot-ferias"><img src="https://img.shields.io/badge/%F0%9F%8F%96%EF%B8%8F%20Vacation%20Bot-ver%20c%C3%B3digo-0284c7?style=for-the-badge&labelColor=0f172a"/></a>
 
