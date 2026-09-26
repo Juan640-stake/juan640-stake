@@ -33,7 +33,7 @@ Olá! Eu sou o **Juan Medeiros**, estudante de Ciência da Computação. Gosto d
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-em%20andamento-0284c7?style=for-the-badge&labelColor=0f172a"/>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Brasil-%F0%9F%87%A7%F0%9F%87%B7-0284c7?style=for-the-badge&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/%F0%9F%92%A1%20Aprendendo-construindo-0284c7?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Foco-Automa%C3%A7%C3%A3o%20%26%20IA-0284c7?style=for-the-badge&labelColor=0f172a"/>
 
 <br><br>
 
@@ -140,7 +140,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/Juan640-stake"><img src="https://img.shields.io/badge/GitHub-Juan640--stake-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Medeiros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-medeiros-b71639249/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Medeiros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br><br>
 
